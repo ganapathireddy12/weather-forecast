@@ -18,9 +18,9 @@ This project is a **Weather Forecast Webpage** that provides real-time weather u
 1. **Clone the repository**
    ```bash
    git clone https://github.com/ganapathireddy12/weather-forecast.git
-cd weather-forecast
-open index.html  # For macOS
-start index.html # For Windows
+## cd weather-forecast
+- open index.html  # For macOS
+- start index.html # For Windows
 
 
 ![Screenshot 2025-02-20 at 10 08 26 AM](https://github.com/user-attachments/assets/5dae0626-0091-4bfc-b883-bd0b58bc1167)
